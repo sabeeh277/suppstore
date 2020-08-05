@@ -1,0 +1,8 @@
+git init (creaates local repo/initiates local repository for first time)
+git remote add origin https://github.com/sabeeh277/suppstore.git (connects to online repository)
+
+
+git status (tells current status of code (what is added/removed/altered))
+git add .(stage files to be pushed)
+git commit -m "listing + local cache + infinite scroll completed" (commit those changes)
+git push origin master (push commited files to online repository)
